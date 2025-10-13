@@ -7,4 +7,4 @@ print(c)
 dir = r"C:\pramod\n.txt" # raw - it will print as it is (ignore the escape seq.)
 print(dir)
 
-file_path = r"/Users/promode/PycharmProjects/PyATB6xLearning/src/ex_03_Literals_Variables/Lab028_String_Double_Single_Diff.py"
+#file_path = r"/Users/promode/PycharmProjects/PyATB6xLearning/src/ex_03_Literals_Variables/Lab028_String_Double_Single_Diff.py"
